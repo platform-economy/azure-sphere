@@ -9,3 +9,5 @@ https://www.hackster.io/contests/SecureEverything/overview
 https://github.com/Azure/azure-sphere-hardware-designs
 
 https://github.com/Azure/azure-sphere-samples
+
+https://daniel-krzyczkowski.github.io/Azure-Sphere-Device-Connected-To-Azure-IoT-Central/
